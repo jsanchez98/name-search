@@ -1,2 +1,2 @@
 # name-search
-Find name by searching email id
+Find name by searching with email id
